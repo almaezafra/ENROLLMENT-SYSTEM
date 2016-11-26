@@ -1,0 +1,10 @@
+open nyo wamp 
+punta phpmyadmin
+delete mo yung enrollment database
+create ka ng enrollment database 
+open mo enrollment database then import sabay iselect nyo yung enrollment.sql dito sa files
+
+
+http://localhost/ENROLLMENTSYSTEM/student.php - ito yng buksan nyo sa link 
+
+yung mga html na ibang nilayout naten ay makikita nyo sa views folder sa pages dun 
